@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Farhan Mulla.
 - 👀 Data Enthusiast.
 - 🌱 I’m currently working as a Systems Engineer in TCS. 
-- 💞️ I’m looking for new opportunities.
+- 💞️ I’m looking for new opportunities in the field of Data.
 - 📫 Reach out to me md.mmulla@gmail.com
